@@ -1,8 +1,8 @@
 import { Button } from "./ui/button";
 import { Card } from "./ui/card";
 import { Badge } from "./ui/badge";
-import michaelPhoto from "figma:asset/2c804dd4885f8cd952216c7a8ddbdbb0f73f27c4.png";
-import cvImage from "figma:asset/673d8a0467168b38ffe58616c8e8dc0f83df01c8.png";
+import michaelPhoto from "/image/2c804dd4885f8cd952216c7a8ddbdbb0f73f27c4.png";
+import cvImage from "/image/673d8a0467168b38ffe58616c8e8dc0f83df01c8.png";
 
 export function ProfileSection() {
   const skills = [
