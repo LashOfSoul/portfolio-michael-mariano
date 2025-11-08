@@ -16,7 +16,7 @@ export function ExperienceSection() {
         "Criação de jornadas digitais para o setor agrícola",
         "Facilitação entre stakeholders e usuários finais"
       ],
-      logoUrl: "/image/060eda02be69aa032e6f45b61f720e9bf4da25.png"
+      logoUrl: "/image/logo-globant.png"
     },
     {
       company: "MJV Technology & Innovation (Bradesco)",
@@ -30,7 +30,7 @@ export function ExperienceSection() {
         "Colaboração com equipes multidisciplinares",
         "Foco na experiência de clientes Bradesco"
       ],
-      logoUrl: "/image/6c6c3ad77f2ae95f1dbf367048cf21596e82ce8d.png"
+      logoUrl: "/image/logo-mjv.png"
     },
     {
       company: "Hitss Brasil (Lojas Americanas)",
@@ -45,7 +45,7 @@ export function ExperienceSection() {
         "Elaboração de identidade visual completa",
         "Transformação digital do varejo"
       ],
-      logoUrl: "/image/87b9b2a41510f67d8ff6e677032b88c6329f37b3.png"
+      logoUrl: "/image/logo-hitss.png"
     },
     {
       company: "Ninebee (Lojas Americanas)",
@@ -59,7 +59,7 @@ export function ExperienceSection() {
         "Criação de materiais impressos internos e externos",
         "Desenvolvimento de materiais promocionais"
       ],
-      logoUrl: "/image/2010f88cc94c86f94a13c67a17f559c09b7bc64b.png"
+      logoUrl: "/image/logo-ninebee.png"
     },
     {
       company: "Adina Têxtil",
@@ -74,7 +74,7 @@ export function ExperienceSection() {
         "Gestão de conteúdo em mídias digitais",
         "Atualização de conteúdos na 'Área do Cliente' e site institucional"
       ],
-      logoUrl: "/image/3e86f905e09e5c99e621e57b0d6fb876b00241bb.png"
+      logoUrl: "/image/logo-adina.png"
     },
     {
       company: "Casa da Moeda do Brasil",
@@ -89,7 +89,7 @@ export function ExperienceSection() {
         "Gestão de conteúdo da Intranet",
         "Codificação de hotsites"
       ],
-      logoUrl: "/image/80a9230a11b8664ae44602f703dd27f23e31f991.png"
+      logoUrl: "/image/logo-casa-moeda.png"
     }
   ];
 
